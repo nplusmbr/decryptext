@@ -4,7 +4,7 @@
 
 <div> <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></div>
 
-[Clique aqui para ver o resultado final](https://nplusmbr.github.io/text-decode-alura/text-decode-alura-main)
+[Acesse o Decodificador](https://nplusmbr.github.io/decryptext/text-decode-alura-main/)
 
 _Desenvolvimento do Projeto para o primeiro Challenge OracleONE ALURA_
 
