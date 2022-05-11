@@ -26,7 +26,7 @@ a Codificação tem as chaves abaixo:
 - Não devem ser utilizados letras com acentos nem caracteres especiais
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original. 
 
-Exemplos do que deve ser feito
+Exemplos que devem se esperar do decryptext
 `"alura oracle one" => "fexlsmarfex allrfexclet allnet"`
 `"fexlsmarfex allrfexclet allnet" => "alura oracle one"`
 
