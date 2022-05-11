@@ -17,7 +17,7 @@ function toasty(msg,gravity,bg,position) {
 
     Toastify({
         text: msg,
-        duration: 6000,
+        duration: 3000,
         newWindow: true,
         close: true,
         gravity: gravity, // `top` or `bottom`
@@ -36,11 +36,11 @@ function encrypt() {
     var get_msg = txt_msg.value;
     if (Regex.test(get_msg) == true) {
         var encrypt_msg = get_msg
-            .replaceAll("e", "et")
-            .replaceAll("i", "abr")
-            .replaceAll("a", "fex")
-            .replaceAll("u", "sma")
-            .replaceAll("o", "all");
+            .replaceAll("e", "xttxw")
+            .replaceAll("i", "znls")
+            .replaceAll("a", "fshw")
+            .replaceAll("u", "smcx")
+            .replaceAll("o", "lzbr");
         return encrypt_txt.value = encrypt_msg;
     } else {
         toasty("A mensagem está fora dos requisitos ou em branco, por favor revise o texto digitado de acordo com as instruções","top","#000000","center");
@@ -62,11 +62,11 @@ function decrypt() {
     var get_msg = txt_msg.value;
     if (Regex.test(get_msg) == true) {
         var decrypt_msg = get_msg
-            .replaceAll("et", "e")
-            .replaceAll("abr", "i")
-            .replaceAll("fex", "a")
-            .replaceAll("sma", "u")
-            .replaceAll("all", "o");
+            .replaceAll("xttxw", "e")
+            .replaceAll("znls", "i")
+            .replaceAll("fshw", "a")
+            .replaceAll("smcx", "u")
+            .replaceAll("lzbr", "o");
         return encrypt_txt.value = decrypt_msg;
         // alert(decrypt_msg);
     } else {
