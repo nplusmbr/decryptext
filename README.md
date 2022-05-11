@@ -36,7 +36,7 @@ Exemplos que devem se esperar do decryptext
 **Extras:**
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do `ctrl+C` ou da opção "copiar" do menu dos aplicativos.
 
-### Badge referente ao termino do Challenge
+### BADGE de conclusão
 
 
 <div> <img src="https://user-images.githubusercontent.com/51368071/166089412-8c28ae16-fed7-4b30-b38f-5b8562f0eee8.png" width="400"/></div>
