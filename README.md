@@ -15,11 +15,11 @@ No Desenvolvimento desse projeto foi utilizado às tecnologias **HTML**, **CSS**
 O projeto é uma aplicação que criptografa textos
 
 a Codificação tem as chaves abaixo:
-- A letra "e" é convertida para "et"
-- A letra "i" é convertida para "abr"
-- A letra "a" é convertida para "fex"
-- A letra "o" é convertida para "sma"
-- A letra "u" é convertida para "all"
+- A letra "e" é convertida para "xttxw"
+- A letra "i" é convertida para "znls"
+- A letra "a" é convertida para "fshw"
+- A letra "o" é convertida para "smcx"
+- A letra "u" é convertida para "lzbr"
 
 **Requisitos:**
 - Deve funcionar apenas com letras minúsculas
